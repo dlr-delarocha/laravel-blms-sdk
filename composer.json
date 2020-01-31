@@ -29,12 +29,15 @@
         "psr-4": {
             "BLMS\\": "src/BLMS/"
         },
-        "files": ["tests/BLMSTestCredencials.php"]
+        "files": ["tests/BLMSTestCredentials.php"]
     },
     "autoload-dev": {
         "psr-4": {
             "BLMS\\Tests\\": "tests/"
-        }
+        },
+        "classmap": [
+            "tests/BLMSTestCredentials.php"
+        ]
     },
     "extra": {
         "laravel": {
