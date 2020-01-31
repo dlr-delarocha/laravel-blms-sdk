@@ -21,8 +21,8 @@
             "email": "delarocha.alberto01@gmail.com"
         },
         {
-            "name": "SRAX",
-            "homepage": "https://github.com/dlr-delarocha/php-blms-sdk/graphs/contributors"
+            "name": "Contributors",
+            "homepage": "https://github.com/dlr-delarocha/laravel-blms-sdk/graphs/contributors"
         }
     ],
     "autoload": {
