@@ -82,6 +82,7 @@ class BLMSGuzzleHttpClientTest extends Test
 
     public function testClientCanBeLoginAndMakeARequest()
     {
+        Cache::forget('access_token');
         Config::set('blms.user', BLMSTestCredentials::$blsm_user);
         Config::set('blms.password', BLMSTestCredentials::$blms_password);
         Config::set('blms.domain', BLMSTestCredentials::$blms_domain);
