@@ -1,5 +1,5 @@
 {
-    "name": "delarocha/php-blms-sdk",
+    "name": "delarocha/laravel-blms-sdk",
     "description": "BLMS SDK for Laravel/Lumen",
     "keywords": ["blms", "sdk"],
     "type": "library",
