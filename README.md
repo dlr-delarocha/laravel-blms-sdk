@@ -1,7 +1,7 @@
 # Laravel-blms-sdk
 This repository contains the open source PHP SDK that allows you to access the BLMS Platform from your Lumen/Laravel app.
 
-##Lumen Configuration
+## Lumen Configuration
 
 ### Install with composer
 
